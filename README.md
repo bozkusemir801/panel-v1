@@ -1,1 +1,2 @@
-# panel-v1
+                                             #PANEL V1
+#This panel was built for 75 AI-based systems; it is open-source. I have fixed various errors, including node-related issues—this is the v1 version. IP address addition is not yet implemented, but I will add that feature myself. The AI ​​systems cannot handle everything perfectly on their own. There is an "AFK server" section where you can display advertisements (via Google Ads); you are free to change these as you wish. I will also include some screenshots of the panel.                                             
